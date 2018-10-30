@@ -1,0 +1,50 @@
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.exe
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.xml
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\Interop.ADODB.dll
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\Interop.ADOX.dll
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\Interop.MSDASC.dll
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.vbproj.ResolveComReference.cache
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form1.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form10.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form11.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form12.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form2.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form3.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form4.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form5.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form6.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form7.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form8.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Form9.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Resources.resources
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.exe
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.xml
+C:\Users\Joey\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.pdb
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\Interop.ADODB.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\Interop.ADOX.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\Interop.MSDASC.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College Management System.vbproj.ResolveComReference.cache
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College Management System.exe
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College Management System.xml
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College Management System.pdb
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\bin\Debug\College Management System.exe
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\bin\Debug\College Management System.xml
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form1.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form10.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form11.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form12.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form2.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form3.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form4.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form5.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form6.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form7.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form8.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Form9.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College_Management_System.Resources.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\College Management System\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
